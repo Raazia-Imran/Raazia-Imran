@@ -106,11 +106,12 @@ I believe in continuous growth. Here is what I am tackling this year:
 
 ---
 
-<div align="center">
-  <i>Let's build something meaningful together.</i> 🚀
-  <br/><br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Raazia-Imran.Visitor-Counter" alt="Visitor Counter" width="200"/>
-</div>
+<p align="center">
+<i>Let’s collaborate and build something that truly matters.</i> 🚀  
+<br><br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Raazia-Imran.Visitor-Counter" alt="Visitor Counter">
+</p>
+
 
 
   <br/>
