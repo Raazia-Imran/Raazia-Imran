@@ -70,6 +70,19 @@ I am a **Software Engineering Sophomore** at **NED University** who loves bridgi
 | 🧠 **Student Stress Sys** | **Hackathon Winner.** A wellness platform with focus timers and mood tracking. | `HTML/CSS` `JS` `Figma` |
 
 ---
+
+---
+### 🌱 **2026 Learning Goals**
+I believe in continuous growth. Here is what I am tackling this year:
+
+| **Technical** | **Personal** |
+| :--- | :--- |
+| ⚡ **Mastering TypeScript & Next.js** | 🇯🇵 **Learning Japanese** (Hiragana/Katakana) |
+| ☁️ **Salesforce CRM & ERP** | 🇸🇦 **Learning Arabic** (Basic Conversation) |
+| 🧠 **Advanced DSA (Graphs/DP)** | 📚 **Reading** |
+
+---
+
 ### ⚡ **Github Stats**
 
 <div align="center">
@@ -95,6 +108,9 @@ I am a **Software Engineering Sophomore** at **NED University** who loves bridgi
 
 <div align="center">
   <i>Let's build something meaningful together.</i> 🚀
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/Raazia-Imran/count.svg" alt="visitor count" />
+</div>
   <br/>
   <br/>
   <a href="https://www.linkedin.com/in/raazia-imran-reshamwala/">
