@@ -108,7 +108,7 @@ I believe in continuous growth. Here is what I am tackling this year:
 <div align="center">
   <i>Let's build something meaningful together.</i> 🚀
   <br/><br/>
-  <img src="https://count.getloli.com/get/@Raazia-Imran?theme=moeblue&fontColor=F75C7E" alt="Visitor Counter" />
+  <img src="https://img.shields.io/badge/Visitors-0-FF69B4?style=for-the-badge&logo=github" alt="Custom Visitor Counter" />
 </div>
 
 
