@@ -109,13 +109,8 @@ I believe in continuous growth. Here is what I am tackling this year:
 <div align="center">
   <i>Let's build something meaningful together.</i> 🚀
   <br/><br/>
-  <img src="https://visits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaazia-Imran&count_bg=%23F75C7E&title_bg=%231f2428&icon=laptop.svg&icon_color=%23FFFFFF&title=PROFILE%20VIEWS&edge_flat=false"/>
-</div>
-
-<div align="center">
-  <i>Let's build something meaningful together.</i> 🚀
-  <br/><br/>
-  <img src="https://www.cutercounter.com/hits.php?id=hmxqcxq&nd=6&style=61" border="0" alt="visitor counter">
+  <!-- Laptop-style visitor counter -->
+  <img src="https://visits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaazia-Imran&count_bg=%23F75C7E&title_bg=%231f2428&icon=laptop.svg&icon_color=%23FFFFFF&title=PROFILE%20VIEWS&edge_flat=false" alt="Profile Views" />
 </div>
 
 
