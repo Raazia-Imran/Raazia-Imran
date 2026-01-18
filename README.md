@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Raazia-Imran/Raazia-Imran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
   <h1>Hi there, I'm <span style="color:#E94D5F;">Raazia Imran!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+%40+NEDUET;ICPC+National+Qualifier+(Top+104);Google+Certified+UX+Designer;Building+AI+%26+React+Applications" alt="Typing SVG" />
-  </a>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%40+NED+UET;ICPC+National+Qualifier+%28Top+104%29;Google+Certified+UX+Designer;Building+AI+%26+React+Applications" alt="Typing SVG" />
+</a>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raazia-imran-reshamwala/">
@@ -76,12 +76,13 @@ I am a **Software Engineering Sophomore** at **NED University** who loves bridgi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raazia-Imran&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raazia-Imran&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raazia-Imran&theme=radical&hide_border=true" alt="streak stats" />
 </div>
+
 
 ---
 
