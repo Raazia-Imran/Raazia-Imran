@@ -109,15 +109,9 @@ I believe in continuous growth. Here is what I am tackling this year:
 <div align="center">
   <i>Let's build something meaningful together.</i> 🚀
   <br/><br/>
-  <img src="https://raazia-imran.github.io/Visitor-Laptop-Counter/visitor-counter.svg" alt="Laptop Visitor Counter" width="350"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Raazia-Imran.Visitor-Counter" alt="Visitor Counter" width="200"/>
 </div>
 
-
-<div align="center">
-  <i>Let's build something meaningful together.</i> 🚀
-  <br/><br/>
-  <img src="https://visits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaazia-Imran&count_bg=%23F75C7E&title_bg=%231c1c1c&icon=laptop.svg&icon_color=%23FFFFFF&title=VISITS&edge_flat=false" alt="Laptop Visitor Counter"/>
-</div>
 
   <br/>
   <a href="https://www.linkedin.com/in/raazia-imran-reshamwala/">
