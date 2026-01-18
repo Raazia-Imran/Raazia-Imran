@@ -108,9 +108,10 @@ I believe in continuous growth. Here is what I am tackling this year:
 
 <div align="center">
   <i>Let's build something meaningful together.</i> 🚀
-  <div align="center">
-  <img src="https://profile-counter.glitch.me/Raazia-Imran/count.svg" alt="visitor count" />
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Raazia-Imran.Raazia-Imran" alt="visitor count" />
 </div>
+
   <br/>
   <br/>
   <a href="https://www.linkedin.com/in/raazia-imran-reshamwala/">
