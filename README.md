@@ -70,12 +70,13 @@ I am a **Software Engineering Sophomore** at **NED University** who loves bridgi
 | 🧠 **Student Stress Sys** | **Hackathon Winner.** A wellness platform with focus timers and mood tracking. | `HTML/CSS` `JS` `Figma` |
 
 ---
+### ⚡ **Github Stats**
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Raazia-Imran&show_icons=true&theme=radical&hide_border=true" width="48%" />
   </a>
-  
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raazia-Imran&layout=compact&theme=radical&hide_border=true" width="48%" />
   </a>
@@ -85,7 +86,7 @@ I am a **Software Engineering Sophomore** at **NED University** who loves bridgi
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raazia-Imran&theme=radical&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=Raazia-Imran&theme=radical&hide_border=true" />
   </a>
 </div>
 
