@@ -73,22 +73,17 @@ I am a **Software Engineering Sophomore** at **NED University** who loves bridgi
 ### ⚡ **Github Stats**
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Raazia-Imran&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raazia-Imran&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raazia-Imran&layout=compact&theme=radical&hide_border=true" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raazia-Imran&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Raazia-Imran&theme=radical&hide_border=true" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Raazia-Imran&theme=radical&hide_border=true" />
 </div>
+
 
 
 
