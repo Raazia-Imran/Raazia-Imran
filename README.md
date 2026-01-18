@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFhMmd3b2M3cHRmN2VxNmZ6dDR6MWRrYzJ3Z2xjZzV6a2Z3eGd0NSZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="120" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Raazia+Imran;Software+Engineering+Student;ICPC+National+Qualifier;Building+AI+Solutions" />
   <h1>Hi there, I'm <span style="color:#E94D5F;">Raazia Imran!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <a href="https://git.io/typing-svg">
