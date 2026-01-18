@@ -73,12 +73,16 @@ I am a **Software Engineering Sophomore** at **NED University** who loves bridgi
 ### ⚡ **Github Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raazia-Imran&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raazia-Imran&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raazia-Imran&theme=radical" />
 </div>
 
 <br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raazia-Imran&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raazia-Imran&theme=radical" />
+</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Raazia-Imran&theme=radical&hide_border=true" />
