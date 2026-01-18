@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFkM2M3YjQ4YzVhNTM1ZDAxOWE5YjA1ZjE2OTExZmY5N2M2YzY2YSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2M3a2FvN2NqMmFvNXF0Z3Z2OWR6eHJ5OWR5cHJhYzJ6Znl4eGZxdiZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="120" />
   <h1>Hi there, I'm <span style="color:#E94D5F;">Raazia Imran!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <a href="https://git.io/typing-svg">
