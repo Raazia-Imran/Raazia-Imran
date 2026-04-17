@@ -1,10 +1,9 @@
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JrZ2V5NnB0cW5qdnN4d3R3cWZ0Z3Z1aTVzNnZtZ2JtZ3M3eSZjdD1n/WUlplcMpOCEmTGBtBW/giphy.gif" width="140" />
   <h1>Hi there, I'm <span style="color:#E94D5F;">Raazia Imran Reshamwala!</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+NED+UET;ICPC+National+Qualifier+(Top+104);One+Million+Leaders+Asia+Fellow+(Champion);Aspire+Leaders+Program+'25+(Harvard+Affiliated);Research+Assistant+(LaTeX+%26+Academic+Writing);Building+AI+%26+React+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+NED+UET;ICPC+National+Qualifier+(Top+104);IFTP+'26+Global+Finalist+(Texas+A%26M);Lead+Web+Developer+Intern+%40+RSI;CanSat+Aerospace+Payload+Builder;Star+Volunteer+%26+Community+Leader;Building+AI+%26+Full-Stack+Web+Apps" alt="Typing SVG" />
 </a>
 
 <div align="center">
@@ -22,12 +21,13 @@
 ---
 
 ### 👩‍💻 **About Me**
-I am a **Software Engineering Sophomore** at **NED University** who loves bridging the gap between complex algorithms and beautiful user experiences. I don't just write code; I build products that solve real problems.
+I am a **Software Engineering Sophomore** at **NED University** who loves bridging the gap between complex algorithms and physical reality. Whether I am architecting custom digital ecosystems or building satellite payloads, I don't just write code; I build robust products that solve real problems.
 
+* 🌍 **Global Innovator:** **Global Finalist at IFTP 2026** (Texas A&M), co-engineering a zero-electricity smart storage system for agricultural sustainability.
 * 🏆 **Competitive Programmer:** Ranked **Top 104 Nationally** in the **ICPC Asia Topi Regional Contest** [2025].
-* 🎨 **UX Designer:** **Google Certified UX Designer** with a passion for intuitive interfaces.
-* 🚀 **Builder:** Won hackathons and pitched startups at **NIC Karachi**.
-* 🔭 **Currently:** Integrating **LLMs** into web apps & formatting research papers with **LaTeX**.
+* 💼 **Professional Developer:** **Lead Web Developer Intern** at RS International & independent builder for brands like BlueNet+.
+* 🛰️ **Aerospace Builder:** Successfully built and launched the **CanSat Explorer (CK-2508)** payload with real-time telemetry at SUPARCO.
+* ⭐ **Community Leader:** Awarded the **Star Volunteer Shield** for leading graphics and promotions for CodeSphere 2.0 (350+ participants) and serving as Class Representative.
 
 ---
 
@@ -36,10 +36,10 @@ I am a **Software Engineering Sophomore** at **NED University** who loves bridgi
 
 | **Frontend & Design** | **Backend & AI** | **Languages & Tools** |
 |:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> | <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" /> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> | <img src="https://img.shields.io/badge/Hardware/IoT-4B0082?style=for-the-badge&logo=arduino&logoColor=white" /> | <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" /> |
 
 </div>
 
@@ -49,10 +49,11 @@ I am a **Software Engineering Sophomore** at **NED University** who loves bridgi
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| 📚 **KitabiBuddy** | **NIC Karachi Pitch Cohort.** A mobile app for book discovery with AI cover scanning. | `React Native` `Supabase` `Google AI` |
-| 🏥 **ClinixTech** | **Hospital Management System.** Uses Min-Heaps for triage & Linear Regression for health alerts. | `Python (Flask)` `SQLAlchemy` `DSA` |
-| 🤖 **O.R.B.I.T** | **AI Workflow Generator.** Automation tool powered by LLMs to generate complex workflows. | `Python` `Streamlit` `LLMs` |
-| 🧠 **Student Stress Sys** | **Hackathon Winner.** A wellness platform with focus timers and mood tracking. | `HTML/CSS` `JS` `Figma` |
+| 🌍 **EvaCrate** | **IFTP '26 Global Finalist.** Zero-electricity smart storage using IoT, ML spoilage prediction, and SMS alerts for farmers. | `Python` `IoT/Sensors` `Twilio` |
+| 🛰️ **CanSat Explorer** | **Aerospace Payload (CK-2508).** Engineered real-time telemetry, MPU6050/BMP180 sensor integration, and a Python GUI ground station. | `C++` `Python` `Hardware` |
+| 🚢 **RSI Digital Ecosystem** | **Corporate Platform.** Engineered a scalable, high-performance business architecture for an international maritime corporation. | `Next.js` `TypeScript` `Supabase` |
+| 🤖 **O.R.B.I.T** | **Best Creative Award (Sentec).** AI Workflow Generator and reporting tool powered by LLMs to eliminate operational latency. | `Python` `Streamlit` `LLMs` |
+| 📚 **KitabiBuddy** | **NIC Karachi Pitch Cohort.** A digital library management system streamlining book discovery and organization. | `React Native` `Supabase` `AI` |
 
 ---
 
@@ -62,9 +63,9 @@ I believe in continuous growth. Here is what I am tackling this year:
 
 | **Technical** | **Personal** |
 | :--- | :--- |
-| ⚡ **Mastering TypeScript & Next.js** | 🇯🇵 **Learning Japanese** (Hiragana/Katakana) |
-| ☁️ **Salesforce CRM & ERP** | 🇸🇦 **Learning Arabic** (Basic Conversation) |
-| 🧠 **Advanced DSA (Graphs/DP)** | 📚 **Reading** |
+| ⚡ **Multi-Agent LLM Systems** | 🇯🇵 **Learning Japanese** (Hiragana/Katakana) |
+| 🎓 **Stanford Code in Place Scholar** | 🇸🇦 **Learning Arabic** (Basic Conversation) |
+| 🧠 **Advanced DSA (ICPC Regional Prep)** | 📚 **Reading & System Design** |
 
 ---
 
@@ -86,9 +87,6 @@ I believe in continuous growth. Here is what I am tackling this year:
   <img src="https://streak-stats.demolab.com?user=Raazia-Imran&theme=radical&hide_border=true" />
 </div>
 
-
-
-
 ---
 
 <p align="center">
@@ -96,8 +94,6 @@ I believe in continuous growth. Here is what I am tackling this year:
 <br><br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Raazia-Imran.Visitor-Counter" alt="Visitor Counter">
 </p>
-
-
 
   <br/>
   <a href="https://www.linkedin.com/in/raazia-imran-reshamwala/">
